@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Sazan-Mahbub" alt="Sazan" /> [![Linkedin: sazan-mahbub](https://img.shields.io/badge/-Sazan-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sazan-mahbub/)](https://www.linkedin.com/in/sazan-mahbub/)
 [![GitHub Sazan](https://img.shields.io/github/followers/Sazan-Mahbub?label=follow&style=social)](https://github.com/Sazan-Mahbub)
-[![Google Scholar Sazan](https://img.shields.io/badge/-GoogleScholar-grey?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=u-pukXQuUAAAAJ&hl=en)](https://scholar.google.com/citations?user=u-pukXQuUAAAAJ&hl=en/)
+[![Google Scholar Sazan](https://img.shields.io/badge/-GoogleScholar-grey?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=pukXQuUAAAAJ&hl=en)](https://scholar.google.com/citations?user=pukXQuUAAAAJ&hl=en/)
 
 ### <img src="https://media.giphy.com/media/sYItmQBLxA4rvYkbFS/giphy.gif" width="50"> A little more about me...  
 
