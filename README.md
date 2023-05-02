@@ -13,7 +13,7 @@
 ```javascript
 const Sazan = {
   pronouns: "He" | "Him",
-  Research Interest: "AI for Life Sciences, Computational Biology, Machine Learning",
+  Research Interest: "AI for Life Sciences, Machine Learning, Computational Biology",
   Nickname: "Sazan"
 }
 ```
