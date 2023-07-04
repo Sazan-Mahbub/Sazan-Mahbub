@@ -17,7 +17,8 @@ const Sazan = {
   Nickname: "Sazan"
 }
 ```
-
+<!--p>
 ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> Github Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sazan-Mahbub&show_icons=true&count_private=true)](https://github.com/Sazan-Mahbub)
+</--p>
