@@ -13,7 +13,7 @@
 ```javascript
 const Sazan = {
   pronouns: "He" | "Him",
-  Research Interest: "AI for Life Sciences, Computational Biology, Multimodal Machine Learning",
+  Research Interest: "AI-driven Science, Multimodal Machine Learning, Computational Biology"
   Nickname: "Sazan"
 }
 ```
