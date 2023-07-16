@@ -13,8 +13,9 @@
 ```javascript
 const Sazan = {
   Pronouns: "He" | "Him",
-  Research Interest: "Multimodal Machine Learning,
-                      AI-driven Science, Computational Biology",
+  Research Interest: "Multimodal Machine Learning",
+                      "Computational Biology",
+                      "AI-driven Science",
   Nickname: "Sazan"
 }
 ```
