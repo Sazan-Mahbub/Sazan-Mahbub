@@ -15,7 +15,8 @@ const Sazan = {
   Pronouns: "He" | "Him",
   Research Interest: "Multimodal Machine Learning",
                      "Computational Biology",
-                     "AI-driven Science",
+                     "AI for Science",
+                     "Foundation Models",
   Nickname: "Sazan"
 }
 ```
