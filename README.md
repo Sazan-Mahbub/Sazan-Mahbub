@@ -13,10 +13,11 @@
 ```javascript
 const Sazan = {
   Pronouns: "He" | "Him",
-  Research Interest: "Multimodal Machine Learning",
+  Research Interest: "Generative AI",
+                     "Foundation Models",
+                     "Multimodal Deep Learning",
                      "Computational Biology",
                      "AI for Science",
-                     "Foundation Models",
   Nickname: "Sazan"
 }
 ```
