@@ -14,8 +14,8 @@
 const Sazan = {
   Pronouns: "He" | "Him",
   Research Interest: "Generative AI",
-                     "Foundation Models",
-                     "Multimodal Deep Learning",
+                     "Multimodal Foundation Models",
+                     "Geometric Deep Learning",
                      "Computational Biology",
                      "AI for Science",
   Nickname: "Sazan"
